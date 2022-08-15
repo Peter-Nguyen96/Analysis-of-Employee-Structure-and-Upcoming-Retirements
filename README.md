@@ -18,7 +18,7 @@ Summary: There are 72458 current employees qualifying for retirement and potenti
 
 ![fig2](https://user-images.githubusercontent.com/108313294/184569181-c0bf0bd7-a12c-4831-a6e5-f61a679c2f36.png)
 
-There should be enough retirement eligible employees ready to train employees eligible for mentorship as well as onboarding hires. By department the retiring members are broken down as follows. 
+There should be enough retirement eligible employees ready to train employees eligible for mentorship as well as onboarding hires. By department the retiring members are broken down as follows. (fig 3)
 
 ![fig3](https://user-images.githubusercontent.com/108313294/184569959-87f83122-2502-40ae-ae30-c3dde7f020ca.png)
 
